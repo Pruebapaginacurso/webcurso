@@ -1,0 +1,43 @@
+.contaniner{
+
+    display: flex;
+    justify-content: center;
+}
+
+.index {
+    float: left;
+    float: right;
+    display: block;
+
+       width: 600px;
+       height: 400px;
+ margin: 0% ;
+
+
+}
+
+.btn1 {
+    margin-left: 300px;
+    margin-right: 300px;
+    
+}
+.btn2 {
+    margin-left: 250px;
+    margin-right: 500px;
+
+
+
+}
+
+
+}
+
+
+
+}
+
+
+
+
+
+
